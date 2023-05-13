@@ -37,5 +37,6 @@ This is my Online portfolio where I have documented my contributions to the open
 # Sprint 4 (April 18 - May 1)
   - Issue and Pull Request: [Completed the Forgot password feature and closed the issue (Took longer than expected because the folder structure had changed)](https://github.com/ChicoState/PantryNode/commit/e3258c285d12392c35856f52260ba5d72cfd1bfc)
 
-# Sprint 5 (May 2 - 1)
+# Sprint 5 (May 2 - 15)
   - Issue (Testing): Started a new issue to test the Summary.js feature, and was testing it for almost a week, but was not able to complete it. [link](https://github.com/ChicoState/PantryNode/commit/5209a5f308f3a1bbb572e3fb2f7d97387ce6f833)
+  - Was also spending time in making this online portfolio.
